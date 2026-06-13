@@ -9,12 +9,16 @@ Identify top-selling products and categories.
 Understand customer purchasing behavior.
 Compare sales across different regions.
 Monitor key business KPIs.
+
 **🛠 Tools & Technologies**
+
 Power BI
 Power Query
 DAX (Data Analysis Expressions)
 Microsoft Excel / CSV
+
 **📊 Dashboard Features**
+
 Total Sales Analysis
 Profit Analysis
 Category-wise Sales Performance
@@ -22,11 +26,14 @@ Regional Sales Distribution
 Customer Insights
 Monthly and Yearly Sales Trends
 Interactive Filters and Slicers
+
 **📈 Key Insights**
+
 Identified top-performing product categories.
 Analyzed sales and profit trends over time.
 Determined high-revenue regions and customer segments.
 Highlighted areas for business improvement and growth.
+
 **📂 Dataset**
 
 The dataset contains:
